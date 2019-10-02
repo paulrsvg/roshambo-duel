@@ -1,0 +1,29 @@
+/* CSS files add styling rules to your content */
+
+
+
+
+
+body {
+	
+	background-color: LightBlue;
+	font-family: monospace;
+ 	text-align: center;
+ 	font-size: 1.5rem;
+	position: relative;
+}
+
+img {
+ 	padding: 10px;
+}
+
+img:hover {
+ 	transform: scale(1.2);
+ 	transition: all 1s;
+}
+
+.container {
+  position: relative;
+  min-height: 200px;
+/*   background-color: #4B90BB; */
+}
